@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Clasificador de riesgo de activos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <p class="eyebrow">PROYECTO ACADÉMICO · MACHINE LEARNING</p>
+      <h1>Clasificación de riesgo de activos de información</h1>
+      <p>Prototipo experimental con Random Forest y dataset sintético.</p>
+    </header>
+    <section class="notice">
+      <strong>Importante:</strong> este prototipo no evalúa la seguridad real de la UBI ni sustituye una evaluación profesional.
+    </section>
+    <form id="asset-form">
+      <div class="grid">
+        <label>Tipo de activo
+          <select name="asset_type" required>
+            <option>Base de datos</option><option>Servidor</option><option>Aplicación</option>
+            <option>Equipo</option><option>Documento</option><option>Red</option>
+          </select>
+        </label>
+        <label>Confidencialidad (1–5)
+          <input name="confidentiality" type="number" min="1" max="5" value="4" required>
+        </label>
+        <label>Integridad (1–5)
+          <input name="integrity" type="number" min="1" max="5" value="4" required>
+        </label>
+        <label>Disponibilidad (1–5)
+          <input name="availability" type="number" min="1" max="5" value="4" required>
+        </label>
+        <label>Exposición a amenazas (1–5)
+          <input name="threat_exposure" type="number" min="1" max="5" value="3" required>
+        </label>
+        <label>Número de vulnerabilidades (0–8)
+          <input name="vulnerability_count" type="number" min="0" max="8" value="2" required>
+        </label>
+        <label>Madurez de controles (1–5)
+          <input name="control_maturity" type="number" min="1" max="5" value="3" required>
+        </label>
+        <label>Calidad de copias de respaldo (1–5)
+          <input name="backup_quality" type="number" min="1" max="5" value="3" required>
+        </label>
+        <label class="check"><input name="internet_exposed" type="checkbox"> Expuesto a Internet</label>
+        <label class="check"><input name="personal_data" type="checkbox" checked> Contiene datos personales</label>
+      </div>
+      <button id="submit-btn" type="submit">Clasificar nivel de riesgo</button>
+    </form>
+    <p id="status" role="status"></p>
+    <section id="result" class="result hidden" aria-live="polite"></section>
+    <footer>Los valores son estimaciones del modelo entrenado con datos sintéticos y no deben utilizarse como decisión de seguridad real.</footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

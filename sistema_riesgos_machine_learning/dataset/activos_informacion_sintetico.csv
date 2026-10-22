@@ -1,0 +1,1201 @@
+asset_type,confidentiality,integrity,availability,threat_exposure,vulnerability_count,control_maturity,internet_exposed,personal_data,backup_quality,risk_level
+Servidor,1,4,5,5,1,3,0,0,5,Medio
+Base de datos,3,3,1,5,2,4,0,0,3,Medio
+Base de datos,3,5,5,5,2,3,1,1,1,Alto
+Base de datos,4,3,4,3,6,5,0,0,1,Alto
+Base de datos,3,1,1,2,2,2,0,1,3,Medio
+Servidor,1,2,2,3,0,5,0,1,2,Bajo
+Documento,4,5,3,3,2,4,1,1,5,Alto
+Red,4,3,5,5,1,5,1,0,1,Alto
+Servidor,2,5,5,3,2,3,0,0,1,Alto
+Equipo,2,2,1,2,3,4,0,1,4,Bajo
+Servidor,3,4,2,5,0,5,1,0,3,Medio
+Equipo,5,5,1,3,2,1,1,1,4,Alto
+Servidor,5,1,4,3,1,5,1,0,1,Medio
+Documento,2,5,2,3,0,5,1,1,2,Medio
+Equipo,4,2,3,5,0,2,0,0,2,Medio
+Equipo,4,4,3,3,0,1,0,0,5,Bajo
+Red,3,3,4,4,2,4,1,1,3,Alto
+Servidor,3,1,1,2,1,2,0,1,3,Bajo
+Aplicación,3,4,5,1,0,3,0,0,1,Bajo
+Aplicación,3,1,3,5,1,2,0,0,4,Medio
+Base de datos,3,3,1,5,0,5,1,1,2,Alto
+Aplicación,1,2,3,2,1,3,0,0,3,Bajo
+Equipo,4,3,1,3,1,2,0,1,4,Medio
+Red,4,2,3,5,1,2,0,0,1,Alto
+Equipo,2,3,5,3,0,4,1,1,2,Medio
+Servidor,1,1,3,5,3,1,0,1,5,Medio
+Equipo,2,5,2,3,1,5,0,1,1,Medio
+Aplicación,2,5,4,1,1,5,0,0,2,Bajo
+Base de datos,3,1,3,1,1,2,0,0,1,Bajo
+Equipo,5,5,2,5,3,4,1,1,3,Alto
+Servidor,4,3,4,1,2,2,0,0,1,Bajo
+Red,2,3,4,3,1,1,1,0,4,Alto
+Aplicación,5,5,4,1,3,5,0,1,4,Bajo
+Aplicación,1,5,5,4,3,1,1,1,3,Alto
+Aplicación,2,2,4,1,0,2,1,1,5,Bajo
+Servidor,4,4,4,2,1,5,0,0,4,Bajo
+Base de datos,3,4,4,5,1,2,0,1,4,Alto
+Servidor,4,1,1,1,1,5,0,1,3,Bajo
+Red,4,3,1,4,1,3,1,1,2,Alto
+Red,4,5,2,1,2,4,0,1,5,Bajo
+Base de datos,2,1,4,4,2,3,0,0,4,Medio
+Servidor,1,2,2,1,1,5,0,1,2,Bajo
+Aplicación,4,3,4,4,1,4,0,0,2,Medio
+Base de datos,5,5,1,1,4,1,0,1,4,Alto
+Base de datos,1,3,3,2,2,4,1,1,2,Medio
+Documento,2,5,2,2,0,5,0,0,1,Bajo
+Aplicación,4,2,2,2,2,4,1,0,2,Bajo
+Documento,1,4,2,1,2,4,1,1,3,Bajo
+Base de datos,3,4,4,2,0,4,0,1,2,Medio
+Base de datos,3,1,4,5,0,5,1,0,5,Bajo
+Documento,1,5,3,2,1,1,1,1,3,Medio
+Aplicación,5,1,3,3,1,4,1,1,2,Medio
+Documento,4,5,1,2,2,4,0,0,1,Bajo
+Base de datos,2,4,5,4,4,3,0,1,1,Alto
+Servidor,5,2,1,5,0,2,0,0,5,Medio
+Servidor,3,5,2,1,3,2,1,0,3,Medio
+Servidor,1,4,4,5,0,1,0,0,2,Alto
+Aplicación,3,4,5,2,1,3,0,0,4,Bajo
+Aplicación,5,3,1,5,1,2,0,1,5,Alto
+Aplicación,4,4,5,5,2,2,0,0,3,Alto
+Documento,2,3,1,5,0,4,0,1,1,Medio
+Aplicación,5,1,2,2,1,2,0,0,1,Medio
+Documento,5,2,2,1,1,5,0,1,1,Bajo
+Equipo,1,4,4,3,1,3,0,1,3,Medio
+Servidor,1,4,1,3,1,2,1,1,3,Alto
+Documento,4,4,4,1,3,2,0,0,1,Medio
+Base de datos,4,1,3,5,4,1,1,0,1,Alto
+Servidor,5,2,4,4,2,5,0,0,4,Medio
+Aplicación,1,5,4,1,3,5,0,0,4,Bajo
+Servidor,4,3,4,1,2,3,1,0,4,Bajo
+Servidor,2,2,3,4,1,1,0,0,1,Alto
+Servidor,2,4,1,4,2,4,0,0,1,Medio
+Aplicación,1,4,1,1,3,1,0,1,4,Bajo
+Aplicación,5,2,2,2,1,4,0,1,5,Bajo
+Aplicación,3,2,4,2,2,1,1,1,4,Alto
+Base de datos,5,4,4,4,1,1,1,0,5,Alto
+Red,3,1,1,3,2,3,0,0,1,Bajo
+Equipo,4,2,4,5,0,5,1,1,1,Alto
+Aplicación,4,2,4,3,2,2,0,0,3,Medio
+Red,3,1,1,2,2,5,0,0,3,Bajo
+Base de datos,1,4,5,1,1,5,0,1,2,Bajo
+Red,2,5,5,3,0,4,1,0,1,Alto
+Red,1,4,5,4,2,1,0,0,3,Alto
+Equipo,4,2,3,1,1,2,1,0,3,Medio
+Base de datos,4,4,3,3,2,4,0,0,3,Medio
+Servidor,2,5,1,3,1,5,0,0,2,Bajo
+Red,4,4,2,3,0,5,0,0,3,Bajo
+Servidor,3,2,4,5,3,4,1,0,1,Alto
+Servidor,4,5,2,1,1,2,0,0,1,Medio
+Aplicación,2,5,1,5,2,4,0,0,4,Medio
+Red,4,4,5,4,0,4,0,0,3,Medio
+Servidor,2,3,1,2,4,5,1,1,1,Medio
+Aplicación,1,3,1,2,1,3,1,0,2,Medio
+Documento,1,1,1,5,1,3,0,1,4,Bajo
+Aplicación,1,1,3,3,3,2,0,0,5,Bajo
+Red,1,2,2,5,0,1,1,0,5,Medio
+Base de datos,4,3,1,5,0,3,0,0,1,Medio
+Equipo,4,2,1,4,2,4,0,1,1,Medio
+Servidor,2,1,2,2,2,4,0,0,4,Bajo
+Servidor,1,2,4,2,3,3,0,1,5,Bajo
+Aplicación,5,5,2,4,0,3,0,1,5,Medio
+Servidor,2,3,4,1,2,1,1,0,5,Medio
+Base de datos,4,4,1,4,1,5,0,1,2,Medio
+Base de datos,5,3,1,4,0,3,0,1,5,Medio
+Red,1,1,2,3,0,3,0,1,4,Bajo
+Base de datos,3,2,2,3,3,5,0,1,4,Bajo
+Documento,4,2,2,3,1,5,0,1,2,Medio
+Red,5,2,3,4,5,5,0,1,2,Medio
+Documento,3,3,2,1,0,5,0,1,5,Bajo
+Documento,1,3,3,5,0,3,0,0,4,Bajo
+Aplicación,5,2,2,2,0,2,0,0,4,Bajo
+Base de datos,5,3,4,3,0,5,1,0,1,Medio
+Servidor,1,4,1,2,1,5,0,1,2,Bajo
+Base de datos,2,5,2,2,0,4,1,0,1,Medio
+Servidor,2,2,3,3,0,4,0,0,1,Bajo
+Documento,1,4,4,3,1,2,0,0,4,Medio
+Aplicación,4,5,4,2,0,2,1,0,3,Alto
+Aplicación,2,1,1,2,0,2,0,0,3,Bajo
+Servidor,2,2,2,5,3,3,0,0,2,Alto
+Aplicación,3,1,2,4,0,1,1,0,5,Medio
+Base de datos,1,3,1,1,0,2,1,0,4,Bajo
+Equipo,3,5,3,1,0,1,0,0,4,Bajo
+Aplicación,2,2,5,3,2,3,0,1,5,Medio
+Documento,5,5,1,5,0,1,1,0,4,Alto
+Equipo,5,2,3,5,2,2,0,1,3,Alto
+Red,2,3,1,4,1,1,1,1,2,Alto
+Red,2,1,1,1,0,5,0,0,3,Bajo
+Red,3,3,4,5,0,5,1,0,2,Medio
+Equipo,1,1,1,1,1,2,1,1,2,Bajo
+Servidor,4,1,3,2,1,2,1,0,4,Bajo
+Red,3,3,5,3,3,5,1,1,2,Medio
+Servidor,1,4,2,5,0,4,0,0,1,Medio
+Equipo,2,5,1,1,2,5,0,0,1,Bajo
+Base de datos,3,4,1,1,1,3,0,0,4,Bajo
+Base de datos,1,2,2,2,1,4,0,0,4,Bajo
+Servidor,1,3,1,1,2,4,0,0,2,Bajo
+Red,5,4,4,2,1,5,0,0,5,Bajo
+Base de datos,2,2,3,3,2,1,0,0,2,Medio
+Aplicación,4,1,1,1,1,1,1,0,4,Bajo
+Servidor,1,1,1,3,1,5,0,0,3,Bajo
+Base de datos,1,3,5,2,2,4,0,1,1,Medio
+Documento,4,2,4,1,0,5,1,1,1,Medio
+Equipo,2,3,1,1,1,1,0,0,4,Bajo
+Documento,4,5,1,5,1,4,0,0,4,Medio
+Base de datos,3,4,1,2,1,5,0,0,4,Bajo
+Base de datos,2,1,3,2,3,5,1,1,5,Bajo
+Documento,4,4,4,2,1,3,0,0,5,Bajo
+Servidor,1,5,4,3,1,4,0,0,2,Medio
+Documento,1,4,5,2,0,1,0,0,4,Bajo
+Aplicación,5,3,5,2,0,2,0,0,2,Medio
+Aplicación,4,5,3,3,1,1,0,0,5,Medio
+Documento,4,4,4,1,2,3,0,1,4,Medio
+Equipo,2,4,3,3,2,3,0,1,4,Medio
+Equipo,5,3,1,1,2,1,1,0,1,Alto
+Base de datos,2,2,3,4,1,1,1,1,1,Alto
+Servidor,1,3,1,2,1,5,1,0,3,Bajo
+Servidor,2,5,3,3,1,4,0,0,2,Bajo
+Red,3,1,1,2,2,1,1,1,1,Medio
+Equipo,5,2,1,1,1,1,1,1,5,Bajo
+Base de datos,4,4,4,1,2,3,0,1,4,Medio
+Base de datos,2,4,4,5,1,1,1,0,1,Alto
+Base de datos,1,5,5,3,3,5,1,0,4,Medio
+Base de datos,4,2,2,4,2,4,0,0,5,Medio
+Documento,4,4,1,2,5,3,0,0,3,Medio
+Aplicación,1,3,3,3,0,5,0,1,1,Bajo
+Red,3,5,5,4,2,2,1,0,5,Alto
+Documento,4,3,5,2,3,4,0,0,1,Alto
+Aplicación,5,5,1,5,1,5,0,0,1,Medio
+Aplicación,4,5,3,3,0,4,1,0,5,Medio
+Servidor,1,1,4,4,0,4,1,0,5,Bajo
+Servidor,3,2,2,2,2,3,0,1,1,Bajo
+Servidor,3,2,1,4,2,4,1,0,3,Medio
+Red,2,1,3,4,2,1,1,1,1,Alto
+Aplicación,2,2,3,5,1,2,0,0,4,Medio
+Documento,5,2,1,5,1,3,0,1,2,Alto
+Aplicación,1,4,3,3,1,4,1,0,2,Medio
+Aplicación,3,1,3,1,1,2,0,1,4,Bajo
+Red,4,1,5,5,1,5,1,0,5,Medio
+Documento,3,5,4,4,1,4,0,0,4,Medio
+Red,2,5,5,1,1,1,0,1,3,Alto
+Base de datos,1,5,4,5,1,4,1,0,5,Medio
+Base de datos,2,5,1,4,1,3,0,0,2,Alto
+Base de datos,2,4,2,4,2,3,0,0,3,Medio
+Aplicación,5,2,1,2,3,2,0,0,2,Medio
+Documento,3,1,2,4,1,2,0,0,2,Medio
+Equipo,2,5,3,3,2,1,0,0,2,Alto
+Equipo,2,1,5,5,4,1,1,0,1,Alto
+Red,4,3,4,5,2,1,0,0,4,Alto
+Aplicación,2,4,3,1,0,1,1,1,3,Medio
+Base de datos,5,1,3,5,2,3,0,0,5,Medio
+Base de datos,4,5,1,3,2,4,0,0,2,Medio
+Servidor,4,2,4,1,0,1,0,1,3,Bajo
+Equipo,1,2,3,5,2,4,0,1,3,Medio
+Base de datos,3,1,1,3,2,5,0,0,4,Bajo
+Base de datos,3,5,5,5,2,1,0,0,4,Alto
+Red,3,1,1,3,1,5,1,0,5,Bajo
+Red,3,1,5,3,1,2,1,1,1,Alto
+Servidor,1,2,2,2,1,5,0,0,1,Bajo
+Base de datos,5,1,4,1,1,2,1,1,2,Medio
+Aplicación,4,2,4,1,1,4,0,0,4,Bajo
+Equipo,1,1,2,1,4,2,0,1,1,Bajo
+Servidor,2,1,2,1,4,3,1,1,1,Medio
+Aplicación,5,2,4,2,4,5,0,1,5,Medio
+Aplicación,4,5,1,3,1,3,0,0,2,Medio
+Base de datos,3,3,5,3,1,3,1,0,3,Medio
+Documento,3,3,4,4,2,4,1,0,3,Alto
+Aplicación,4,2,3,2,1,2,0,0,1,Medio
+Documento,2,2,2,1,2,3,0,0,4,Bajo
+Aplicación,5,5,3,5,2,4,0,0,3,Alto
+Equipo,2,5,4,4,3,3,0,0,4,Medio
+Servidor,1,5,4,3,1,1,1,1,3,Alto
+Base de datos,5,1,1,1,1,1,1,1,2,Medio
+Base de datos,3,1,5,4,2,4,1,1,3,Alto
+Equipo,2,1,2,4,1,1,0,1,4,Medio
+Red,3,5,1,5,2,3,0,1,5,Medio
+Aplicación,4,2,4,1,0,2,1,1,1,Medio
+Aplicación,1,2,3,3,1,1,0,1,5,Medio
+Aplicación,5,3,4,2,2,5,0,0,4,Bajo
+Documento,5,2,4,5,0,3,0,0,4,Medio
+Aplicación,2,4,4,2,1,5,0,0,3,Bajo
+Aplicación,1,3,5,4,1,5,1,0,5,Bajo
+Aplicación,5,2,1,3,2,5,1,1,5,Bajo
+Aplicación,3,4,4,2,2,1,0,1,1,Alto
+Base de datos,3,1,5,5,2,4,0,1,3,Alto
+Servidor,3,5,1,4,0,5,0,1,4,Medio
+Base de datos,1,1,3,2,3,4,1,0,2,Medio
+Equipo,5,4,3,2,4,4,1,1,3,Alto
+Red,5,5,1,4,3,3,1,1,2,Alto
+Documento,3,3,1,4,1,1,1,0,4,Alto
+Base de datos,4,1,2,4,2,2,0,1,2,Alto
+Red,3,5,1,1,5,2,0,1,3,Alto
+Servidor,2,1,3,3,0,5,1,1,3,Bajo
+Servidor,2,5,5,5,2,4,1,1,1,Alto
+Equipo,5,2,1,5,1,5,1,0,3,Medio
+Red,4,4,3,1,1,1,1,0,1,Medio
+Equipo,3,2,2,2,0,1,0,0,1,Bajo
+Servidor,5,5,1,3,1,4,0,0,4,Medio
+Base de datos,5,4,1,5,0,5,0,0,5,Bajo
+Red,2,3,2,1,0,5,0,1,4,Bajo
+Servidor,4,3,4,2,1,5,1,1,3,Bajo
+Aplicación,5,5,1,4,3,4,0,0,5,Medio
+Servidor,5,2,5,5,4,1,0,0,2,Alto
+Red,2,1,1,5,2,3,0,1,1,Medio
+Base de datos,1,3,4,3,1,3,0,0,2,Medio
+Servidor,1,5,2,1,1,2,0,0,2,Bajo
+Servidor,2,3,3,1,1,3,1,0,5,Bajo
+Aplicación,5,3,3,4,4,1,1,0,4,Alto
+Red,1,1,5,2,1,4,1,0,2,Bajo
+Aplicación,1,1,4,2,0,5,1,1,3,Bajo
+Red,3,2,5,2,0,1,1,1,5,Alto
+Servidor,3,4,1,2,1,4,0,1,2,Bajo
+Red,5,2,4,1,1,5,0,0,1,Bajo
+Documento,5,5,1,2,4,4,0,1,4,Medio
+Base de datos,1,1,5,1,0,5,0,1,1,Bajo
+Red,5,4,4,2,0,3,0,1,4,Medio
+Documento,1,4,4,1,1,3,0,0,4,Bajo
+Base de datos,3,1,4,3,0,5,0,0,4,Bajo
+Aplicación,5,2,4,4,1,5,1,0,2,Medio
+Aplicación,4,5,3,3,1,3,0,1,5,Medio
+Base de datos,2,4,3,5,3,1,1,1,2,Alto
+Aplicación,4,4,2,2,2,4,0,0,5,Bajo
+Documento,2,1,5,1,0,5,1,0,1,Bajo
+Red,4,5,4,1,0,1,0,0,1,Alto
+Servidor,1,3,1,5,2,1,1,1,4,Medio
+Equipo,1,3,1,2,1,1,0,1,2,Medio
+Aplicación,3,4,4,4,1,1,1,0,1,Alto
+Base de datos,2,1,2,4,2,5,1,1,1,Alto
+Aplicación,5,2,2,1,0,1,0,1,4,Medio
+Aplicación,4,5,4,2,2,3,1,0,3,Alto
+Equipo,5,5,1,5,0,1,0,1,1,Alto
+Equipo,5,2,1,4,0,1,1,0,5,Medio
+Documento,3,5,4,1,1,4,0,1,5,Bajo
+Base de datos,3,4,5,3,2,5,0,1,4,Medio
+Equipo,4,4,4,4,1,4,0,1,5,Alto
+Servidor,1,1,2,2,2,5,0,0,5,Bajo
+Aplicación,3,1,4,3,0,4,0,1,3,Bajo
+Aplicación,2,2,2,5,3,3,1,1,1,Alto
+Documento,2,2,1,3,1,1,1,0,2,Medio
+Servidor,1,3,5,2,1,2,0,0,5,Bajo
+Base de datos,3,3,2,5,5,4,0,1,3,Alto
+Aplicación,2,1,3,4,1,5,0,1,3,Bajo
+Base de datos,1,4,2,2,1,3,0,1,5,Bajo
+Aplicación,2,2,3,4,1,2,1,0,2,Medio
+Equipo,4,2,2,5,1,1,0,1,3,Alto
+Red,2,5,3,1,1,2,0,0,5,Bajo
+Base de datos,1,1,1,3,0,4,0,0,2,Bajo
+Documento,3,3,2,5,4,4,0,0,5,Medio
+Red,5,3,1,2,3,3,1,1,3,Alto
+Base de datos,1,2,3,3,1,4,0,1,4,Bajo
+Servidor,5,2,2,1,2,2,0,0,1,Bajo
+Base de datos,5,4,4,5,0,1,1,0,5,Alto
+Aplicación,2,4,4,1,1,2,0,0,5,Bajo
+Servidor,4,1,2,2,2,2,0,1,1,Medio
+Base de datos,1,5,5,4,1,3,0,0,3,Alto
+Equipo,1,1,1,1,2,5,0,1,1,Bajo
+Red,1,5,4,3,2,2,0,0,5,Medio
+Documento,4,5,4,1,0,3,1,0,3,Bajo
+Equipo,2,4,5,5,1,3,0,1,3,Alto
+Equipo,4,1,1,3,2,3,1,1,5,Medio
+Base de datos,4,3,3,2,1,5,0,0,2,Bajo
+Servidor,3,4,2,5,2,4,1,0,1,Alto
+Red,2,2,3,4,3,4,0,1,5,Medio
+Equipo,5,3,2,5,1,1,0,0,5,Medio
+Aplicación,1,2,2,3,1,5,0,0,3,Bajo
+Equipo,4,3,2,1,0,2,0,1,4,Bajo
+Documento,5,5,1,5,3,4,0,1,4,Alto
+Aplicación,1,5,5,1,1,3,0,0,4,Bajo
+Aplicación,3,1,2,2,1,5,0,1,5,Bajo
+Red,5,5,4,2,2,1,0,0,3,Alto
+Documento,3,5,2,1,2,3,0,0,1,Bajo
+Red,2,4,5,3,2,1,1,0,3,Alto
+Equipo,4,2,4,3,1,1,0,0,3,Medio
+Documento,2,5,3,2,0,3,1,1,3,Medio
+Base de datos,3,1,3,2,0,4,0,1,1,Bajo
+Documento,5,3,2,3,3,5,0,0,3,Bajo
+Documento,3,1,1,3,1,4,1,0,3,Bajo
+Documento,1,5,5,2,0,5,1,0,4,Bajo
+Base de datos,2,3,5,4,0,4,1,0,5,Medio
+Red,3,3,4,3,1,4,0,0,3,Bajo
+Documento,1,5,1,3,2,4,0,1,3,Bajo
+Equipo,4,2,2,5,2,3,1,0,1,Alto
+Aplicación,5,4,3,2,2,2,0,0,3,Medio
+Documento,1,3,4,1,0,3,0,0,2,Bajo
+Servidor,4,3,4,1,1,1,0,0,2,Medio
+Equipo,4,4,1,5,3,1,1,1,2,Alto
+Servidor,4,1,1,1,3,1,1,0,2,Medio
+Aplicación,3,1,2,5,3,3,0,0,3,Medio
+Aplicación,4,3,5,4,2,3,0,0,2,Alto
+Base de datos,3,5,3,3,2,1,0,0,2,Alto
+Documento,5,2,2,3,2,3,0,0,5,Bajo
+Red,3,1,3,3,3,4,0,1,4,Medio
+Documento,5,4,3,4,1,2,0,0,1,Alto
+Aplicación,5,4,2,1,0,4,0,0,3,Bajo
+Base de datos,2,3,5,4,1,3,0,0,3,Medio
+Aplicación,1,2,4,5,3,1,1,0,4,Alto
+Documento,4,4,5,5,2,3,1,0,2,Alto
+Base de datos,1,1,4,1,0,2,0,0,4,Bajo
+Servidor,5,5,3,1,0,3,1,1,4,Medio
+Servidor,3,1,1,5,2,5,1,1,3,Medio
+Aplicación,1,1,2,3,0,2,0,1,2,Bajo
+Servidor,2,4,3,3,4,3,0,0,5,Medio
+Equipo,1,1,5,2,2,5,0,0,3,Bajo
+Aplicación,4,5,5,4,2,1,0,0,2,Alto
+Base de datos,1,4,4,5,1,1,0,1,2,Alto
+Base de datos,2,1,5,3,4,4,0,0,5,Medio
+Aplicación,5,1,2,3,1,5,0,1,2,Bajo
+Equipo,1,5,3,3,3,2,0,1,3,Alto
+Red,3,3,5,1,1,3,1,0,2,Medio
+Red,3,4,1,1,1,4,0,0,1,Bajo
+Base de datos,2,4,4,2,1,1,0,0,4,Bajo
+Equipo,5,3,3,3,1,5,0,0,3,Bajo
+Red,5,4,1,4,2,2,0,0,5,Medio
+Aplicación,2,3,4,4,0,5,0,0,4,Bajo
+Base de datos,3,5,3,2,2,5,1,0,5,Bajo
+Aplicación,5,5,3,2,0,5,1,1,2,Bajo
+Servidor,5,1,1,3,0,3,0,0,4,Bajo
+Equipo,1,2,3,4,1,2,1,0,2,Alto
+Equipo,3,2,2,3,0,3,1,0,2,Medio
+Aplicación,4,2,5,4,2,3,0,1,5,Alto
+Documento,2,1,2,5,1,2,0,0,5,Medio
+Documento,1,5,1,4,2,3,1,1,3,Alto
+Red,3,3,4,5,2,1,1,1,2,Alto
+Red,5,2,3,2,1,5,1,1,3,Medio
+Servidor,1,4,5,3,2,5,0,0,4,Bajo
+Base de datos,2,4,5,4,1,4,1,0,5,Medio
+Red,5,3,2,1,3,1,0,1,2,Alto
+Base de datos,2,3,4,5,1,2,1,1,5,Alto
+Documento,1,2,4,5,1,3,0,1,4,Medio
+Base de datos,4,5,3,2,1,4,0,0,2,Bajo
+Aplicación,2,3,4,4,1,3,0,0,3,Medio
+Red,2,5,2,3,1,1,0,0,1,Alto
+Aplicación,3,5,2,3,0,4,1,0,1,Medio
+Equipo,4,3,4,5,3,3,1,1,3,Alto
+Documento,2,2,4,5,1,5,0,1,2,Medio
+Equipo,4,3,3,4,1,4,0,0,2,Medio
+Aplicación,4,2,4,1,1,5,0,0,2,Bajo
+Equipo,4,3,1,2,3,2,1,0,5,Medio
+Equipo,3,4,5,2,3,5,1,1,3,Medio
+Equipo,2,3,1,5,1,2,0,1,4,Medio
+Equipo,5,2,2,4,2,2,0,1,1,Alto
+Red,3,5,4,1,2,4,0,1,4,Bajo
+Aplicación,2,4,3,4,1,5,1,0,2,Medio
+Red,5,1,5,1,0,4,1,0,5,Bajo
+Servidor,5,2,1,1,2,4,0,0,3,Bajo
+Red,5,5,4,5,4,4,1,0,4,Alto
+Documento,5,2,3,3,3,1,1,0,3,Alto
+Red,1,2,5,3,0,1,0,0,3,Medio
+Base de datos,2,5,3,3,2,4,0,1,5,Bajo
+Base de datos,1,4,5,3,4,3,0,0,1,Alto
+Servidor,5,1,3,2,3,1,1,0,2,Alto
+Red,3,5,1,5,1,2,0,0,4,Medio
+Servidor,5,4,3,5,3,2,0,0,5,Alto
+Equipo,4,2,4,4,1,1,1,0,2,Alto
+Red,5,1,2,1,0,2,0,1,3,Bajo
+Equipo,4,2,3,3,4,3,1,1,3,Alto
+Aplicación,4,1,5,3,1,5,0,0,2,Bajo
+Documento,5,3,1,5,0,4,0,0,3,Medio
+Aplicación,3,4,3,3,2,5,1,0,1,Medio
+Servidor,3,1,2,3,2,5,0,1,1,Bajo
+Aplicación,4,1,3,3,1,3,0,1,4,Bajo
+Servidor,5,3,1,3,1,1,1,0,2,Alto
+Base de datos,3,3,4,2,0,5,1,1,5,Bajo
+Documento,5,2,1,2,0,3,1,1,5,Bajo
+Base de datos,4,5,2,2,1,5,0,1,4,Bajo
+Equipo,5,2,2,2,0,3,0,1,2,Bajo
+Aplicación,1,1,1,1,3,2,0,0,3,Bajo
+Equipo,1,2,5,1,0,1,0,0,3,Bajo
+Aplicación,2,2,5,5,3,3,1,1,1,Alto
+Servidor,2,3,1,4,0,5,0,0,4,Bajo
+Base de datos,4,2,3,5,1,3,1,1,1,Alto
+Equipo,5,5,3,3,1,1,0,0,2,Alto
+Equipo,3,5,5,1,1,1,0,0,2,Medio
+Aplicación,3,3,5,2,2,1,0,1,5,Medio
+Equipo,1,2,2,2,0,5,0,0,5,Bajo
+Servidor,3,4,3,3,1,3,0,1,1,Alto
+Aplicación,4,3,3,2,1,5,1,0,3,Bajo
+Base de datos,1,4,2,5,1,4,0,0,1,Medio
+Aplicación,4,5,3,2,2,1,1,0,1,Alto
+Red,3,5,3,2,2,3,1,1,3,Alto
+Red,2,3,2,1,1,4,0,0,1,Bajo
+Aplicación,5,4,3,2,0,1,1,0,3,Alto
+Documento,5,4,2,2,1,2,1,0,2,Medio
+Aplicación,1,4,3,3,2,1,0,1,1,Alto
+Aplicación,1,5,1,5,1,3,1,0,5,Medio
+Red,1,4,2,4,3,5,0,0,4,Bajo
+Aplicación,2,2,2,3,0,1,0,1,3,Bajo
+Red,4,5,2,5,1,4,1,0,3,Medio
+Base de datos,4,2,1,1,2,1,0,0,3,Bajo
+Aplicación,2,5,2,1,1,1,0,0,3,Bajo
+Base de datos,5,4,2,4,1,4,0,0,4,Medio
+Equipo,1,2,3,4,1,4,0,0,4,Bajo
+Red,2,4,3,4,0,4,0,0,2,Bajo
+Aplicación,1,3,2,3,0,4,1,1,3,Medio
+Red,2,3,2,2,1,3,0,1,5,Bajo
+Documento,2,4,4,1,1,2,0,0,5,Bajo
+Aplicación,2,4,3,5,2,5,0,0,5,Medio
+Servidor,3,1,1,2,3,5,0,1,1,Bajo
+Documento,1,2,5,3,1,1,0,0,4,Medio
+Base de datos,4,5,3,3,3,5,1,0,2,Alto
+Equipo,4,3,4,5,1,5,0,1,5,Medio
+Equipo,5,3,5,3,1,4,0,1,4,Medio
+Equipo,3,2,5,1,1,3,0,0,1,Bajo
+Documento,2,1,3,3,3,4,1,0,2,Medio
+Base de datos,5,4,4,3,1,5,1,1,2,Alto
+Red,3,4,3,1,1,5,0,1,2,Bajo
+Base de datos,4,4,3,5,1,3,0,0,1,Alto
+Equipo,1,1,2,5,0,2,0,0,5,Bajo
+Base de datos,2,1,3,1,1,1,0,1,1,Medio
+Base de datos,3,3,4,4,2,1,0,1,3,Alto
+Aplicación,2,5,3,2,1,5,0,0,5,Bajo
+Servidor,1,3,2,5,1,2,1,1,3,Alto
+Equipo,2,1,1,1,2,3,0,0,1,Bajo
+Aplicación,2,5,3,1,1,4,1,0,5,Bajo
+Servidor,4,3,1,4,1,2,0,0,3,Bajo
+Base de datos,4,1,5,4,1,1,1,0,4,Alto
+Servidor,1,4,4,5,1,3,0,1,5,Alto
+Aplicación,1,4,5,1,3,5,1,0,2,Medio
+Documento,5,5,2,1,0,1,1,1,5,Medio
+Equipo,5,2,2,3,1,5,0,0,3,Bajo
+Servidor,1,1,4,1,0,5,1,0,3,Bajo
+Aplicación,2,2,1,4,1,2,0,1,1,Medio
+Equipo,1,2,3,5,1,3,0,1,4,Medio
+Servidor,4,2,5,2,0,2,1,1,3,Medio
+Base de datos,4,4,3,4,2,1,1,1,4,Alto
+Base de datos,5,5,3,2,1,2,0,1,2,Medio
+Base de datos,5,3,3,2,2,1,1,0,4,Alto
+Aplicación,3,2,4,5,3,1,0,0,3,Alto
+Base de datos,4,3,3,3,1,1,0,0,5,Bajo
+Red,1,2,5,2,0,4,1,0,2,Bajo
+Base de datos,4,2,4,3,2,2,1,0,3,Alto
+Aplicación,2,2,1,3,2,3,0,0,5,Bajo
+Red,1,3,5,4,1,5,1,1,1,Medio
+Red,2,5,4,2,1,1,1,0,5,Medio
+Base de datos,3,2,5,3,0,1,0,0,5,Medio
+Base de datos,4,1,4,5,2,5,0,1,5,Medio
+Red,5,2,3,5,1,2,0,0,5,Alto
+Servidor,2,1,4,5,3,2,1,0,2,Alto
+Base de datos,4,1,1,5,3,5,0,1,2,Alto
+Aplicación,4,2,1,5,1,5,0,1,5,Bajo
+Red,4,4,2,4,0,1,1,1,5,Alto
+Red,4,4,3,5,2,5,0,0,1,Medio
+Aplicación,2,5,5,5,3,4,1,1,3,Alto
+Equipo,1,2,1,4,1,3,1,0,2,Medio
+Base de datos,2,2,1,4,2,4,0,1,3,Medio
+Servidor,5,5,4,3,1,4,0,1,2,Alto
+Base de datos,2,1,2,1,1,1,0,0,3,Bajo
+Equipo,1,4,1,2,2,1,1,0,1,Alto
+Servidor,4,4,2,2,1,3,1,0,5,Medio
+Servidor,4,5,3,2,3,5,1,1,5,Medio
+Red,4,1,3,5,1,5,0,1,2,Medio
+Red,1,2,3,2,2,4,0,0,5,Bajo
+Red,4,1,5,5,2,2,1,1,4,Alto
+Base de datos,3,5,4,4,0,2,0,1,4,Alto
+Aplicación,1,3,1,3,0,4,1,1,5,Bajo
+Base de datos,3,3,5,1,1,2,1,1,3,Medio
+Base de datos,3,3,1,5,3,5,0,1,3,Alto
+Base de datos,1,5,5,3,0,4,0,0,4,Bajo
+Red,5,3,3,3,0,2,0,0,2,Medio
+Servidor,2,5,3,4,2,4,1,1,4,Alto
+Servidor,2,5,2,5,1,5,0,1,4,Medio
+Servidor,2,5,2,3,1,1,0,0,1,Medio
+Red,4,4,4,2,2,1,0,0,1,Alto
+Base de datos,2,4,5,5,2,5,1,0,2,Alto
+Servidor,2,5,2,2,1,4,1,0,5,Bajo
+Documento,5,4,4,4,0,5,0,1,3,Medio
+Equipo,2,4,3,5,2,4,0,1,1,Alto
+Servidor,2,2,2,4,1,4,0,1,5,Bajo
+Equipo,3,2,2,5,0,3,0,1,1,Alto
+Servidor,2,5,5,4,2,1,1,1,5,Alto
+Servidor,5,1,2,4,2,4,0,0,5,Bajo
+Red,4,5,5,4,2,5,0,0,3,Medio
+Documento,1,4,2,5,4,5,1,1,3,Alto
+Red,5,4,3,1,3,4,1,0,3,Medio
+Servidor,1,4,3,3,0,2,1,0,3,Medio
+Red,2,3,2,2,3,1,0,1,1,Alto
+Red,2,1,3,4,3,5,0,0,4,Bajo
+Base de datos,2,1,5,5,1,4,0,0,4,Medio
+Base de datos,2,3,2,2,2,4,0,0,5,Bajo
+Red,3,1,1,2,3,3,0,1,5,Bajo
+Equipo,5,1,5,1,1,3,0,1,1,Medio
+Aplicación,3,1,1,1,1,2,1,0,5,Bajo
+Base de datos,3,5,1,4,0,4,0,0,4,Bajo
+Servidor,1,4,2,5,1,3,0,0,2,Medio
+Documento,5,2,2,1,1,2,0,0,3,Bajo
+Documento,2,3,1,3,0,5,0,1,2,Bajo
+Equipo,2,4,5,2,0,5,0,1,1,Medio
+Red,2,3,4,3,0,4,1,0,5,Bajo
+Aplicación,4,4,3,2,1,3,0,1,3,Medio
+Red,4,1,5,2,1,2,0,0,3,Medio
+Red,3,5,1,5,2,4,1,0,1,Alto
+Red,1,4,3,5,1,3,0,0,1,Medio
+Base de datos,2,3,4,4,0,3,1,1,3,Medio
+Equipo,3,2,5,3,0,4,0,1,3,Medio
+Base de datos,5,4,4,4,1,5,1,1,3,Alto
+Aplicación,2,4,1,3,1,1,0,1,1,Alto
+Base de datos,1,2,2,3,2,4,0,0,1,Bajo
+Servidor,5,2,1,5,2,3,0,0,3,Medio
+Equipo,4,2,4,3,2,2,1,0,2,Alto
+Base de datos,3,4,1,1,1,4,1,0,5,Bajo
+Documento,2,5,3,5,1,2,1,1,2,Alto
+Red,5,2,5,4,0,3,0,0,5,Bajo
+Documento,3,2,3,2,1,2,0,0,5,Bajo
+Aplicación,4,1,1,2,0,3,1,0,3,Bajo
+Base de datos,1,2,4,1,1,1,0,0,3,Bajo
+Base de datos,5,5,1,3,1,4,0,1,3,Medio
+Red,4,5,2,5,2,1,0,0,4,Alto
+Aplicación,2,1,4,3,0,3,0,0,2,Bajo
+Aplicación,2,3,4,3,4,2,1,0,3,Alto
+Aplicación,5,4,3,5,1,3,1,1,5,Alto
+Servidor,2,5,3,1,2,2,0,1,5,Bajo
+Aplicación,3,3,2,5,3,2,0,0,4,Medio
+Aplicación,2,5,2,4,0,3,0,1,2,Medio
+Red,2,3,3,5,3,2,0,1,1,Alto
+Servidor,5,2,1,2,1,5,0,0,4,Bajo
+Base de datos,3,4,3,3,1,4,0,0,3,Bajo
+Servidor,2,3,1,5,1,3,0,1,2,Medio
+Aplicación,1,2,2,5,0,2,1,0,1,Alto
+Red,2,4,4,4,4,4,0,1,2,Alto
+Base de datos,1,5,4,5,4,4,1,1,5,Alto
+Base de datos,1,4,5,5,2,2,1,0,4,Alto
+Equipo,2,4,5,3,1,4,1,0,4,Medio
+Aplicación,2,5,4,3,1,5,0,1,4,Medio
+Aplicación,3,2,2,1,2,2,0,1,3,Bajo
+Aplicación,4,5,4,2,1,3,0,0,1,Medio
+Equipo,4,3,1,2,2,2,0,0,1,Medio
+Aplicación,3,1,4,4,2,4,0,1,2,Medio
+Base de datos,4,4,4,3,0,1,1,1,3,Alto
+Aplicación,2,4,4,2,3,1,0,1,3,Medio
+Servidor,3,4,2,4,1,2,1,1,5,Alto
+Base de datos,4,2,3,3,1,1,1,1,5,Alto
+Equipo,5,5,4,5,3,5,1,0,3,Alto
+Documento,3,1,4,3,3,1,0,0,5,Medio
+Base de datos,5,4,5,5,5,3,0,0,4,Alto
+Aplicación,4,1,3,4,5,2,1,1,4,Alto
+Documento,1,2,4,1,0,3,1,0,5,Bajo
+Documento,5,5,4,2,2,1,0,1,1,Alto
+Aplicación,1,1,3,1,2,1,1,0,2,Medio
+Red,5,1,3,2,3,3,1,0,2,Medio
+Aplicación,5,2,5,2,1,2,0,1,4,Medio
+Base de datos,1,5,2,1,2,1,0,1,1,Medio
+Equipo,1,5,3,3,0,3,0,0,3,Bajo
+Equipo,1,3,5,4,1,1,0,0,4,Medio
+Base de datos,2,2,5,5,3,5,1,1,4,Alto
+Red,4,5,1,3,2,3,1,1,4,Medio
+Servidor,2,4,3,1,2,3,1,0,4,Bajo
+Documento,4,3,4,2,1,1,1,1,1,Alto
+Red,3,3,4,3,0,4,1,0,1,Medio
+Servidor,3,2,3,3,1,3,1,0,1,Alto
+Equipo,3,4,5,1,1,2,0,0,2,Bajo
+Documento,2,3,3,1,1,5,0,0,2,Bajo
+Servidor,5,1,2,2,2,1,0,1,5,Medio
+Base de datos,4,3,4,2,1,5,0,1,2,Bajo
+Red,2,4,1,3,2,3,0,1,4,Bajo
+Documento,1,1,3,2,2,5,0,0,5,Bajo
+Base de datos,4,2,2,1,0,3,1,1,5,Bajo
+Red,2,1,4,1,0,4,0,1,4,Bajo
+Base de datos,5,1,5,1,1,4,1,0,1,Bajo
+Documento,5,3,2,1,0,4,0,0,2,Bajo
+Documento,3,2,5,1,2,3,0,0,2,Bajo
+Red,4,5,2,5,0,5,0,1,3,Medio
+Equipo,3,1,3,5,1,1,1,0,1,Alto
+Base de datos,2,1,4,5,3,4,0,1,3,Alto
+Documento,2,2,5,2,1,5,0,0,1,Bajo
+Documento,1,3,5,5,2,2,1,1,5,Alto
+Aplicación,5,4,5,2,0,4,0,1,5,Bajo
+Equipo,3,1,1,2,2,4,0,0,4,Bajo
+Equipo,1,3,2,2,0,3,0,0,5,Bajo
+Aplicación,3,1,4,4,3,5,0,1,4,Bajo
+Documento,2,5,1,2,1,1,0,1,2,Medio
+Servidor,5,2,1,3,0,2,0,0,3,Medio
+Equipo,5,3,4,1,3,2,0,0,3,Medio
+Red,3,2,5,4,3,1,1,0,2,Alto
+Equipo,5,1,5,2,1,4,0,0,1,Medio
+Documento,2,3,3,2,1,1,1,1,2,Medio
+Base de datos,5,1,3,1,0,4,0,1,4,Bajo
+Equipo,2,1,3,1,1,2,0,0,1,Bajo
+Equipo,2,5,3,2,0,4,0,0,4,Bajo
+Base de datos,5,3,5,1,0,2,0,1,2,Medio
+Servidor,4,1,4,4,2,4,0,0,2,Medio
+Base de datos,3,2,5,4,0,1,0,1,4,Alto
+Red,3,4,5,5,1,4,1,0,1,Alto
+Equipo,4,2,5,3,0,3,0,0,2,Medio
+Equipo,4,2,3,5,1,2,0,0,2,Alto
+Documento,3,1,5,4,3,5,0,0,1,Medio
+Servidor,4,5,2,5,2,3,0,1,1,Alto
+Aplicación,4,5,3,4,1,2,1,0,5,Alto
+Equipo,2,5,1,3,1,2,0,0,4,Bajo
+Aplicación,1,5,1,3,1,4,0,0,1,Bajo
+Red,5,4,2,5,1,4,1,0,3,Alto
+Base de datos,4,2,3,2,2,1,0,1,2,Alto
+Aplicación,1,2,3,4,0,5,0,1,3,Bajo
+Aplicación,2,3,3,4,1,3,0,0,1,Medio
+Base de datos,4,2,4,4,2,2,0,0,3,Alto
+Red,4,2,5,4,2,4,0,0,3,Medio
+Red,2,4,2,5,3,5,1,0,3,Medio
+Aplicación,5,2,2,4,0,2,1,0,2,Medio
+Documento,5,2,4,4,1,1,0,0,3,Alto
+Red,2,3,4,5,2,2,0,0,4,Alto
+Servidor,1,4,1,3,2,3,1,0,2,Medio
+Aplicación,4,1,3,3,2,2,1,0,5,Medio
+Aplicación,4,5,2,1,4,4,1,0,1,Medio
+Base de datos,1,4,1,3,1,3,1,0,2,Bajo
+Aplicación,1,1,4,5,1,3,0,1,2,Alto
+Base de datos,1,1,4,1,2,1,1,1,1,Medio
+Base de datos,5,2,2,1,0,1,0,1,3,Bajo
+Base de datos,2,3,2,4,1,4,1,1,2,Alto
+Aplicación,2,3,2,3,1,1,0,1,1,Medio
+Aplicación,2,4,5,3,1,2,1,1,4,Alto
+Aplicación,2,4,2,3,0,2,1,0,4,Medio
+Servidor,1,1,3,3,1,2,0,1,5,Bajo
+Aplicación,3,5,2,1,1,2,1,1,2,Medio
+Servidor,2,3,4,1,2,1,0,0,3,Medio
+Aplicación,2,2,4,4,1,5,0,0,4,Bajo
+Servidor,1,5,4,5,0,3,0,0,1,Medio
+Base de datos,2,4,4,4,3,2,1,0,3,Alto
+Red,2,5,3,2,0,3,1,1,4,Bajo
+Aplicación,2,4,4,3,2,4,0,0,3,Medio
+Red,1,4,3,4,0,1,0,0,5,Medio
+Servidor,1,3,3,1,0,5,0,1,2,Bajo
+Red,2,1,1,4,0,5,1,0,2,Bajo
+Servidor,4,3,2,1,1,5,1,0,4,Bajo
+Equipo,1,3,2,3,2,3,1,1,1,Alto
+Aplicación,2,3,1,5,0,2,0,1,1,Alto
+Documento,3,4,1,1,0,1,0,0,1,Bajo
+Aplicación,3,1,5,5,0,5,1,0,2,Medio
+Aplicación,1,4,3,4,0,1,0,1,3,Alto
+Equipo,3,1,3,4,0,1,0,0,5,Bajo
+Aplicación,3,3,4,5,2,5,1,1,2,Alto
+Aplicación,5,4,5,3,3,5,0,1,3,Alto
+Base de datos,3,1,3,4,0,4,1,1,2,Medio
+Documento,2,3,5,4,2,5,0,0,2,Medio
+Red,2,1,4,2,5,1,0,1,1,Alto
+Aplicación,4,1,3,4,1,1,0,0,2,Medio
+Aplicación,3,1,4,2,0,4,1,0,1,Bajo
+Documento,4,1,1,4,0,1,0,1,3,Medio
+Base de datos,1,1,3,3,2,3,1,1,3,Medio
+Documento,1,3,1,4,3,2,0,1,4,Medio
+Base de datos,1,4,2,2,0,3,0,1,2,Bajo
+Servidor,5,3,3,1,0,1,0,1,1,Medio
+Base de datos,4,3,1,3,1,5,0,1,4,Bajo
+Servidor,5,2,1,3,2,5,0,0,4,Bajo
+Red,5,2,5,2,0,3,0,1,3,Medio
+Aplicación,4,3,5,1,1,2,0,1,2,Alto
+Base de datos,3,1,5,2,4,5,0,1,1,Bajo
+Red,4,3,1,1,3,3,0,0,1,Bajo
+Red,5,4,2,3,1,1,1,0,2,Alto
+Documento,2,5,1,3,1,2,0,0,1,Medio
+Aplicación,1,3,2,1,2,4,1,1,4,Bajo
+Red,5,3,4,4,1,1,0,1,1,Alto
+Equipo,1,2,4,2,2,5,0,0,1,Bajo
+Red,4,3,4,3,1,4,0,0,2,Medio
+Aplicación,3,2,4,2,0,3,0,0,4,Bajo
+Aplicación,2,2,5,1,1,1,0,1,4,Bajo
+Documento,3,5,2,1,1,2,1,0,5,Medio
+Documento,4,2,4,1,1,4,1,1,1,Medio
+Aplicación,1,5,2,4,0,5,1,0,3,Bajo
+Red,4,2,3,5,2,5,0,0,1,Medio
+Aplicación,1,4,1,2,1,3,0,0,1,Bajo
+Base de datos,2,4,1,2,1,2,0,0,1,Medio
+Aplicación,1,4,2,4,1,4,0,0,1,Medio
+Equipo,3,5,5,1,1,5,0,0,1,Bajo
+Aplicación,1,3,4,4,1,4,1,0,1,Medio
+Red,3,5,4,2,1,5,0,0,1,Bajo
+Aplicación,5,3,4,1,5,3,0,0,3,Medio
+Equipo,4,4,5,3,0,3,0,0,2,Medio
+Equipo,4,1,3,2,1,3,0,1,5,Bajo
+Servidor,3,4,3,3,3,2,0,0,5,Medio
+Red,3,1,5,5,2,2,0,1,1,Alto
+Base de datos,3,1,5,5,3,1,0,0,5,Alto
+Documento,1,4,1,5,5,4,0,0,3,Alto
+Aplicación,4,1,2,2,1,4,0,0,3,Bajo
+Equipo,3,5,1,3,0,2,0,0,2,Medio
+Red,2,2,3,5,1,1,0,0,3,Medio
+Equipo,1,4,2,2,2,5,0,0,1,Bajo
+Aplicación,2,3,5,4,1,1,1,0,3,Alto
+Base de datos,3,3,1,1,0,4,0,0,2,Bajo
+Equipo,4,1,1,5,0,4,1,0,3,Bajo
+Red,1,1,1,3,2,1,0,0,3,Bajo
+Aplicación,3,4,4,3,2,2,0,1,2,Alto
+Documento,3,5,4,5,1,3,0,0,3,Alto
+Red,3,1,5,3,1,2,0,0,4,Bajo
+Aplicación,4,5,5,5,1,4,1,1,2,Alto
+Base de datos,4,1,4,2,3,5,1,0,5,Bajo
+Documento,3,4,1,5,0,2,0,0,4,Medio
+Red,1,5,1,2,4,3,0,1,3,Medio
+Aplicación,4,2,4,5,2,4,0,0,2,Medio
+Red,5,5,3,2,0,4,0,1,3,Bajo
+Base de datos,2,5,4,2,2,3,0,0,2,Medio
+Equipo,3,4,5,3,1,1,0,1,2,Alto
+Aplicación,1,4,2,4,1,1,1,1,3,Alto
+Equipo,4,4,3,4,2,3,0,0,4,Alto
+Red,1,3,1,2,1,1,0,0,1,Bajo
+Base de datos,4,4,2,1,0,3,0,0,1,Bajo
+Documento,5,3,4,1,1,5,0,1,5,Bajo
+Equipo,4,3,1,3,3,2,1,1,3,Alto
+Aplicación,2,5,1,2,3,3,0,0,1,Medio
+Aplicación,5,1,5,4,1,1,0,0,4,Alto
+Documento,4,1,3,5,1,5,0,1,4,Bajo
+Equipo,4,5,5,1,1,2,0,1,2,Medio
+Documento,1,3,5,3,2,1,1,0,3,Alto
+Servidor,2,3,4,1,1,5,0,0,1,Bajo
+Base de datos,3,4,3,4,2,5,1,0,1,Alto
+Base de datos,3,1,3,1,2,1,1,1,3,Medio
+Servidor,2,4,2,2,3,2,0,0,5,Medio
+Documento,3,5,1,5,1,4,0,1,3,Alto
+Base de datos,2,2,1,3,1,1,0,0,2,Bajo
+Documento,5,1,1,5,3,3,0,0,3,Medio
+Documento,4,2,5,1,0,4,0,0,4,Bajo
+Aplicación,4,4,5,2,1,5,0,1,3,Bajo
+Equipo,1,3,5,2,2,2,1,1,4,Medio
+Equipo,2,2,5,1,1,2,0,1,5,Bajo
+Documento,3,2,1,2,2,4,1,0,4,Bajo
+Equipo,5,1,2,5,2,3,0,0,5,Medio
+Red,2,5,2,3,2,1,0,0,3,Alto
+Red,2,2,2,5,0,2,0,1,4,Medio
+Base de datos,4,5,3,2,0,4,1,1,5,Medio
+Base de datos,3,3,1,4,1,5,0,0,4,Bajo
+Equipo,2,5,4,2,1,4,0,1,2,Medio
+Documento,4,4,1,5,1,3,0,1,5,Medio
+Base de datos,2,5,2,3,2,5,0,1,5,Bajo
+Aplicación,2,1,3,2,0,3,0,0,1,Bajo
+Servidor,2,3,3,4,1,4,0,0,5,Bajo
+Documento,1,4,4,4,2,1,0,0,1,Alto
+Equipo,4,1,3,2,1,2,1,0,3,Medio
+Aplicación,3,3,3,1,0,2,0,1,2,Bajo
+Red,5,2,2,3,0,1,0,1,3,Medio
+Servidor,2,1,3,2,1,2,1,0,1,Medio
+Red,5,2,3,1,0,1,0,0,3,Bajo
+Aplicación,5,4,4,1,2,2,0,0,5,Medio
+Servidor,2,2,2,2,2,3,1,0,4,Bajo
+Documento,1,2,2,1,0,2,1,0,5,Bajo
+Documento,4,4,3,5,5,2,0,0,1,Alto
+Aplicación,4,3,3,5,4,2,0,1,5,Alto
+Documento,1,2,3,5,0,1,0,0,2,Medio
+Servidor,2,4,4,1,3,3,0,1,4,Bajo
+Red,2,4,2,4,0,1,1,0,1,Alto
+Equipo,2,3,3,4,3,5,0,0,2,Medio
+Red,2,2,5,2,3,1,0,1,3,Alto
+Aplicación,2,3,4,2,2,5,0,0,3,Bajo
+Equipo,5,1,5,3,2,4,1,0,1,Alto
+Base de datos,1,2,1,1,2,4,1,1,5,Bajo
+Equipo,3,1,4,1,4,4,1,1,5,Medio
+Red,1,3,3,1,0,2,1,1,5,Bajo
+Equipo,5,2,1,3,1,3,1,0,3,Bajo
+Aplicación,4,3,1,4,0,3,0,1,2,Medio
+Equipo,5,3,4,1,1,4,0,0,5,Bajo
+Aplicación,1,4,1,1,1,2,1,0,4,Bajo
+Base de datos,1,2,5,4,1,3,0,0,2,Medio
+Red,5,5,3,2,1,2,0,1,5,Medio
+Base de datos,1,3,4,1,0,1,1,0,4,Bajo
+Aplicación,4,4,5,5,1,2,0,0,4,Alto
+Equipo,1,1,5,4,2,4,0,1,4,Medio
+Base de datos,3,4,4,1,1,3,0,1,1,Medio
+Base de datos,1,2,3,5,1,1,1,1,1,Alto
+Documento,5,3,2,1,0,1,0,1,5,Bajo
+Red,1,3,3,4,1,1,0,0,4,Medio
+Aplicación,3,1,1,1,5,4,0,0,4,Bajo
+Equipo,5,1,1,5,4,3,0,1,2,Alto
+Red,3,5,5,2,1,2,0,0,2,Medio
+Servidor,3,5,4,4,4,3,0,1,1,Alto
+Documento,5,1,5,4,1,1,1,1,2,Alto
+Base de datos,5,3,5,4,1,3,1,0,4,Alto
+Aplicación,4,1,3,4,1,2,0,0,3,Medio
+Documento,1,5,1,1,4,5,0,0,4,Bajo
+Red,4,4,4,4,4,3,1,1,1,Alto
+Servidor,3,2,5,2,1,2,0,1,3,Medio
+Equipo,2,5,5,3,2,3,0,0,2,Medio
+Aplicación,3,4,4,3,1,5,0,1,2,Medio
+Equipo,1,1,2,3,1,5,1,0,2,Bajo
+Base de datos,5,3,2,4,1,4,0,0,4,Bajo
+Red,2,4,1,1,1,3,0,1,1,Bajo
+Servidor,2,2,4,2,3,3,0,0,5,Bajo
+Equipo,5,4,5,2,3,5,0,0,5,Bajo
+Equipo,2,5,5,3,4,3,1,1,1,Alto
+Equipo,4,2,2,3,3,5,0,0,1,Bajo
+Documento,1,2,3,4,0,5,0,1,2,Bajo
+Aplicación,4,5,1,3,0,3,0,1,2,Medio
+Equipo,3,3,2,3,0,2,0,0,2,Bajo
+Red,1,4,4,4,2,5,0,0,1,Medio
+Documento,3,5,3,1,0,2,1,1,4,Bajo
+Equipo,2,4,2,3,2,1,0,0,2,Alto
+Documento,5,1,4,3,0,1,0,0,5,Medio
+Base de datos,5,1,5,5,0,5,1,0,3,Medio
+Base de datos,4,2,2,4,1,3,0,1,5,Bajo
+Base de datos,1,1,5,2,3,2,1,0,5,Bajo
+Aplicación,2,4,2,5,2,1,0,1,3,Alto
+Servidor,3,5,2,1,0,4,1,1,3,Medio
+Aplicación,5,1,4,1,1,2,0,1,5,Bajo
+Documento,3,4,1,3,2,4,0,0,3,Bajo
+Red,5,1,5,3,2,3,0,0,5,Bajo
+Servidor,3,2,2,2,2,5,0,0,2,Bajo
+Documento,1,3,4,4,0,4,0,0,3,Bajo
+Base de datos,2,1,5,5,1,3,0,1,4,Medio
+Red,2,3,5,4,1,1,0,0,2,Alto
+Documento,1,1,3,3,1,5,0,0,1,Bajo
+Servidor,2,2,4,5,0,1,0,1,3,Alto
+Documento,4,4,5,2,0,1,0,0,5,Medio
+Base de datos,1,5,3,5,0,2,0,1,4,Alto
+Base de datos,1,4,3,4,3,4,1,0,1,Alto
+Red,4,3,2,5,0,2,0,1,5,Alto
+Servidor,3,5,3,2,1,5,0,1,5,Bajo
+Aplicación,1,1,5,5,2,5,1,1,4,Alto
+Servidor,3,1,5,1,2,3,0,1,2,Medio
+Aplicación,5,2,4,5,2,4,0,1,4,Alto
+Servidor,3,3,5,4,0,1,0,1,4,Alto
+Equipo,3,5,5,1,2,2,1,1,2,Alto
+Base de datos,4,2,3,1,2,2,0,0,5,Bajo
+Servidor,5,5,5,1,1,2,0,1,2,Alto
+Documento,3,2,1,1,0,2,0,0,3,Bajo
+Red,3,5,3,5,2,2,0,0,4,Alto
+Red,3,4,5,5,2,3,0,1,2,Alto
+Base de datos,3,3,1,1,3,1,1,0,2,Medio
+Base de datos,5,1,1,4,3,2,1,1,3,Alto
+Red,5,4,4,2,2,3,0,0,3,Medio
+Aplicación,1,2,3,2,3,1,0,0,3,Medio
+Red,1,4,5,5,4,1,0,1,1,Alto
+Base de datos,5,4,3,2,4,1,0,0,3,Alto
+Base de datos,4,1,1,2,0,5,0,1,3,Bajo
+Servidor,1,1,5,1,1,1,0,1,1,Medio
+Red,3,5,5,5,1,4,1,1,5,Alto
+Servidor,1,3,5,1,1,5,1,0,4,Bajo
+Equipo,3,3,2,3,1,3,0,0,2,Bajo
+Aplicación,1,2,1,3,3,5,0,1,3,Bajo
+Equipo,4,3,1,4,1,2,1,1,5,Medio
+Base de datos,4,5,2,1,2,2,0,0,3,Medio
+Servidor,3,2,4,3,1,1,0,0,5,Medio
+Red,4,3,3,3,1,3,1,1,1,Alto
+Aplicación,3,4,3,5,2,5,0,0,4,Medio
+Aplicación,4,4,4,5,1,2,0,1,3,Alto
+Aplicación,4,4,3,5,0,1,1,0,1,Alto
+Base de datos,4,2,5,3,2,4,1,0,3,Medio
+Servidor,3,4,2,5,2,3,0,0,5,Medio
+Base de datos,2,1,3,5,3,5,0,0,1,Medio
+Equipo,5,2,2,1,2,5,0,1,2,Bajo
+Red,5,2,3,3,2,1,1,1,1,Alto
+Aplicación,4,4,4,2,0,4,0,1,2,Medio
+Equipo,4,4,4,2,1,3,0,1,1,Alto
+Red,5,5,1,4,0,2,0,0,1,Medio
+Red,1,5,4,4,2,4,1,0,3,Medio
+Aplicación,4,4,4,3,2,1,0,0,4,Alto
+Servidor,5,5,3,1,0,2,1,1,1,Alto
+Aplicación,3,1,4,4,1,3,1,1,2,Alto
+Documento,4,2,1,4,0,5,1,1,4,Medio
+Servidor,2,2,1,4,2,4,0,0,2,Medio
+Aplicación,3,5,3,1,2,1,0,0,3,Bajo
+Equipo,4,1,2,2,1,4,0,1,1,Medio
+Red,5,4,4,2,0,5,1,1,5,Medio
+Documento,2,3,5,2,3,4,1,0,5,Medio
+Aplicación,1,1,4,2,0,1,0,0,3,Bajo
+Documento,5,3,2,3,4,2,1,0,3,Alto
+Base de datos,4,3,1,5,0,1,0,1,2,Alto
+Servidor,5,1,3,1,1,4,1,0,3,Bajo
+Servidor,5,2,3,1,0,5,1,0,1,Bajo
+Documento,4,3,4,3,3,4,0,0,2,Alto
+Base de datos,5,1,1,4,2,3,0,0,3,Bajo
+Base de datos,3,3,4,3,2,4,0,1,1,Medio
+Red,1,5,1,3,3,1,0,1,5,Medio
+Equipo,5,1,1,1,6,1,1,1,3,Alto
+Equipo,5,4,3,5,0,2,0,0,1,Alto
+Aplicación,3,1,3,5,0,1,0,0,1,Alto
+Equipo,1,5,3,3,0,5,0,0,1,Bajo
+Aplicación,4,3,4,2,1,5,0,0,5,Bajo
+Red,4,3,5,4,1,1,0,1,5,Alto
+Servidor,3,5,4,1,3,5,0,0,1,Medio
+Documento,4,1,5,4,1,1,1,1,5,Alto
+Base de datos,3,1,4,1,2,3,0,1,1,Bajo
+Base de datos,1,2,2,3,1,4,1,0,1,Medio
+Aplicación,5,1,3,3,0,4,0,1,2,Bajo
+Aplicación,3,3,2,5,2,5,0,1,1,Alto
+Equipo,1,1,5,1,1,4,0,0,2,Bajo
+Documento,5,3,1,2,2,5,0,0,2,Bajo
+Documento,5,4,4,2,1,3,0,1,5,Medio
+Servidor,2,3,2,4,3,5,1,0,4,Medio
+Servidor,5,5,4,4,1,4,1,1,4,Alto
+Red,3,2,5,3,1,1,0,1,4,Medio
+Red,1,1,3,4,2,1,1,0,3,Alto
+Red,3,4,3,1,4,3,0,0,3,Medio
+Base de datos,5,3,2,2,0,3,1,0,1,Medio
+Base de datos,5,2,2,2,0,5,0,0,1,Bajo
+Base de datos,3,5,2,5,0,2,0,0,5,Medio
+Documento,1,2,3,5,0,2,0,0,1,Medio
+Servidor,5,1,3,5,2,3,1,0,1,Alto
+Aplicación,3,1,1,5,1,4,0,1,3,Bajo
+Servidor,1,1,5,2,2,5,0,1,2,Bajo
+Red,4,5,2,2,4,5,0,1,4,Bajo
+Equipo,3,5,5,4,1,4,1,1,2,Alto
+Red,2,3,2,1,1,1,0,0,3,Bajo
+Documento,5,3,5,5,0,2,0,0,2,Alto
+Base de datos,3,3,2,1,2,3,0,1,2,Medio
+Aplicación,3,3,4,1,0,1,1,1,5,Medio
+Servidor,1,2,5,3,4,5,0,0,3,Bajo
+Aplicación,2,1,4,2,3,3,1,1,3,Alto
+Servidor,3,2,4,3,0,3,0,0,3,Bajo
+Red,5,2,2,1,1,5,0,0,4,Bajo
+Base de datos,3,2,5,3,1,3,1,0,3,Medio
+Servidor,1,1,1,4,1,3,0,1,4,Bajo
+Red,1,2,3,4,3,2,0,0,2,Medio
+Aplicación,4,2,5,5,2,3,0,1,1,Alto
+Aplicación,3,3,1,1,2,1,0,0,2,Bajo
+Equipo,4,4,4,4,0,1,0,1,1,Alto
+Servidor,5,4,1,1,3,1,0,0,3,Medio
+Aplicación,3,4,3,4,1,1,0,1,2,Alto
+Servidor,5,2,5,4,2,3,0,1,2,Alto
+Aplicación,2,2,4,3,2,1,1,1,5,Alto
+Red,1,3,1,5,0,3,1,0,4,Bajo
+Equipo,3,2,1,1,1,5,1,0,5,Bajo
+Base de datos,4,4,2,4,2,3,0,0,1,Medio
+Base de datos,5,5,1,3,0,1,1,0,2,Alto
+Equipo,1,5,2,2,3,1,0,0,1,Medio
+Documento,4,4,1,5,1,1,0,1,2,Alto
+Equipo,4,2,1,4,4,1,0,0,2,Alto
+Base de datos,2,4,4,5,3,5,0,0,3,Medio
+Aplicación,5,2,1,1,1,5,1,1,3,Bajo
+Base de datos,1,1,1,4,3,5,1,1,1,Medio
+Base de datos,5,4,1,1,3,2,0,0,3,Bajo
+Servidor,4,5,4,3,0,3,0,0,3,Medio
+Red,2,1,4,1,2,2,1,1,1,Medio
+Aplicación,5,2,2,4,1,5,0,1,2,Medio
+Base de datos,3,1,5,5,1,2,0,0,3,Alto
+Documento,2,1,4,3,1,1,0,1,1,Medio
+Aplicación,3,5,3,5,0,1,0,0,1,Alto
+Documento,2,3,4,3,1,2,0,0,1,Medio
+Base de datos,4,3,3,2,1,4,0,1,1,Medio
+Red,4,1,4,5,0,1,1,0,5,Alto
+Documento,1,4,4,3,0,2,1,0,2,Medio
+Base de datos,5,4,5,4,4,5,0,0,3,Alto
+Documento,1,4,1,2,1,2,1,1,3,Medio
+Equipo,2,5,4,2,1,4,0,0,5,Bajo
+Documento,2,1,4,4,2,5,0,1,4,Bajo
+Equipo,4,1,3,1,2,5,0,0,5,Bajo
+Aplicación,5,5,5,1,0,1,1,1,1,Alto
+Equipo,4,2,4,5,1,3,0,1,3,Alto
+Red,5,1,2,4,0,4,0,0,5,Bajo
+Base de datos,4,2,3,5,1,5,0,0,1,Medio
+Aplicación,3,1,1,4,1,2,1,1,4,Medio
+Documento,2,5,4,4,2,3,0,1,2,Alto
+Aplicación,1,2,2,5,2,4,1,0,1,Medio
+Aplicación,1,3,3,2,0,2,1,0,5,Bajo
+Equipo,5,5,3,1,2,4,0,0,2,Bajo
+Servidor,5,2,2,3,0,2,0,0,5,Bajo
+Documento,1,2,2,1,2,1,0,0,4,Bajo
+Aplicación,1,1,4,5,3,5,0,0,3,Bajo
+Base de datos,4,4,3,2,1,2,0,0,2,Medio
+Base de datos,3,5,2,2,2,2,0,1,1,Medio
+Equipo,2,2,2,2,1,1,1,0,1,Medio
+Base de datos,3,4,2,3,2,4,1,1,5,Bajo
+Equipo,5,3,1,3,1,5,1,1,4,Bajo
+Servidor,2,4,3,4,1,1,0,1,4,Alto
+Equipo,2,5,1,5,0,2,1,0,2,Alto
+Equipo,4,5,5,1,8,3,1,0,2,Alto
+Red,1,5,3,5,2,5,0,0,2,Medio
+Aplicación,5,4,3,5,0,4,1,0,3,Alto
+Servidor,4,3,4,5,0,4,1,1,3,Alto
+Red,4,2,5,4,2,1,0,1,4,Alto
+Red,5,3,3,1,2,4,0,0,4,Bajo
+Red,4,2,1,3,2,2,1,0,5,Medio
+Servidor,3,2,2,5,1,5,0,0,1,Medio
+Aplicación,1,3,1,5,1,3,1,0,2,Alto
+Servidor,1,5,2,2,0,5,0,1,1,Bajo
+Red,5,3,3,5,2,4,0,0,3,Medio
+Equipo,5,4,5,4,0,3,1,1,4,Alto
+Aplicación,2,4,5,5,1,3,0,0,4,Alto
+Base de datos,2,1,2,5,0,4,1,1,5,Medio
+Red,2,2,4,3,4,1,1,1,3,Alto
+Base de datos,1,3,1,1,0,4,1,0,4,Bajo
+Equipo,2,3,5,4,0,5,0,1,3,Medio
+Servidor,4,2,4,1,2,4,0,0,5,Bajo
+Base de datos,3,2,2,2,0,5,0,1,1,Bajo
+Servidor,1,5,4,5,2,1,1,1,4,Alto
+Aplicación,5,1,4,2,1,3,0,1,5,Medio
+Servidor,1,4,2,2,2,3,1,0,4,Bajo
+Base de datos,4,5,2,3,0,3,1,0,5,Medio
+Documento,3,4,2,1,2,2,0,0,2,Medio
+Servidor,1,2,1,1,2,4,0,0,4,Bajo
+Equipo,5,4,5,2,1,3,1,0,5,Medio
+Red,3,1,1,5,1,2,0,0,3,Medio
+Aplicación,4,1,1,1,1,1,0,0,1,Bajo
+Red,1,1,3,4,1,4,0,0,4,Bajo
+Red,3,4,1,2,2,5,1,1,2,Bajo
+Servidor,1,1,5,3,1,2,0,0,1,Medio
+Documento,3,4,5,4,1,4,1,1,2,Alto
+Documento,3,1,1,3,2,5,0,0,1,Bajo
+Equipo,1,4,2,3,2,3,0,0,2,Bajo
+Documento,2,2,4,1,2,3,0,1,2,Bajo
+Servidor,3,1,4,3,2,5,0,0,5,Bajo
+Base de datos,2,4,5,3,2,1,0,0,4,Medio
+Equipo,4,3,1,2,3,1,0,1,5,Medio
+Servidor,3,1,4,5,2,5,0,1,2,Alto
+Equipo,5,3,2,5,0,2,0,0,5,Medio
+Base de datos,3,4,2,4,2,2,0,0,5,Medio
+Base de datos,3,2,5,2,2,2,0,0,5,Bajo
+Base de datos,5,3,1,1,2,5,0,1,1,Medio
+Equipo,3,1,5,5,3,4,0,1,3,Alto
+Base de datos,1,5,5,2,0,2,0,1,4,Medio
+Red,1,1,3,3,1,3,0,1,3,Medio
+Documento,2,3,2,1,1,3,1,0,2,Bajo
+Aplicación,4,3,2,4,3,4,0,0,5,Medio
+Aplicación,3,3,5,1,1,1,0,0,5,Bajo
+Base de datos,3,1,1,4,0,5,0,0,5,Bajo
+Servidor,2,3,2,4,0,2,1,0,4,Medio
+Aplicación,4,1,1,2,2,5,0,0,5,Bajo
+Base de datos,1,2,5,4,3,3,0,0,3,Medio
+Documento,2,1,3,5,1,3,0,1,2,Alto
+Aplicación,3,3,5,3,0,4,1,1,1,Alto
+Equipo,2,2,1,1,0,2,1,1,5,Bajo
+Aplicación,1,5,1,3,0,3,1,0,4,Medio
+Aplicación,4,1,3,3,1,4,1,1,2,Medio
+Base de datos,5,3,5,3,0,5,0,0,5,Bajo
+Aplicación,2,1,3,5,1,3,0,1,1,Alto
+Red,3,4,1,5,1,2,1,1,1,Alto
+Equipo,1,1,5,1,3,1,1,0,1,Alto
+Base de datos,2,2,4,1,1,3,0,0,3,Bajo
+Aplicación,3,5,5,2,1,5,0,1,2,Medio
+Aplicación,3,1,1,4,2,5,1,0,4,Bajo
+Base de datos,5,5,5,4,2,2,1,0,4,Alto
+Servidor,5,3,5,1,4,3,0,0,4,Medio
+Red,3,1,4,5,0,5,0,1,3,Medio
+Aplicación,1,4,2,3,0,4,0,1,3,Bajo
+Base de datos,4,1,2,5,0,3,0,1,4,Medio
+Equipo,3,5,5,5,2,4,0,0,1,Alto
+Servidor,1,3,2,1,5,5,0,0,4,Bajo
+Servidor,3,3,2,5,0,3,0,0,4,Medio
+Equipo,2,5,1,5,1,5,1,0,4,Medio
+Aplicación,5,3,4,2,2,4,0,1,3,Medio
+Red,2,5,3,3,1,1,1,1,1,Alto
+Servidor,2,2,4,2,2,5,0,1,4,Bajo
+Base de datos,2,3,2,1,0,5,0,1,1,Bajo
+Documento,3,4,5,5,2,1,0,0,5,Alto
+Red,4,4,4,5,0,1,0,0,2,Alto
+Servidor,5,4,5,5,1,1,0,0,2,Alto
+Documento,2,2,3,3,1,4,1,1,4,Medio
+Base de datos,5,3,4,3,2,2,0,0,4,Medio
+Documento,1,4,1,3,0,3,1,0,1,Bajo
+Base de datos,4,4,3,5,0,2,1,1,3,Alto
+Aplicación,5,2,2,3,3,2,1,1,5,Alto
+Red,1,2,2,5,2,4,1,0,3,Medio
+Documento,5,3,2,1,1,3,0,1,4,Bajo
+Equipo,4,4,3,2,1,3,0,0,4,Bajo
+Aplicación,1,4,5,5,4,1,0,0,4,Alto
+Red,3,3,2,3,0,1,1,1,3,Medio
+Servidor,2,4,3,3,1,1,0,0,4,Bajo
+Equipo,2,5,1,5,2,4,0,0,2,Alto
+Equipo,1,5,3,3,3,5,1,0,2,Medio
+Base de datos,5,4,2,1,1,3,1,1,5,Medio
+Equipo,5,2,4,1,4,5,0,1,3,Bajo
+Aplicación,2,2,4,3,0,4,0,1,4,Bajo
+Base de datos,3,2,5,1,1,5,1,0,5,Bajo
+Aplicación,4,3,2,4,2,5,1,0,5,Bajo
+Aplicación,1,2,5,2,1,5,0,1,4,Bajo
+Aplicación,3,4,1,3,0,2,1,0,1,Medio
+Red,1,1,2,3,0,2,0,0,3,Bajo
+Documento,1,4,3,2,2,5,0,1,3,Bajo
+Red,2,5,4,2,2,5,0,0,3,Bajo
+Red,3,4,5,3,1,2,0,1,5,Alto
+Aplicación,4,3,5,3,1,2,0,0,1,Alto
+Documento,3,5,4,1,1,1,0,0,3,Bajo
+Red,1,4,2,1,0,5,0,0,3,Bajo
+Servidor,1,3,1,1,1,2,0,0,2,Bajo
+Red,4,1,4,4,0,4,0,0,2,Medio
+Base de datos,3,5,3,3,2,4,0,0,2,Medio
+Equipo,5,5,1,4,3,3,0,0,2,Alto
+Equipo,3,1,2,1,0,2,0,0,5,Bajo
+Aplicación,2,4,5,3,3,2,0,1,3,Alto
+Documento,1,2,1,4,3,1,1,1,3,Medio
+Aplicación,2,1,2,1,2,1,0,0,3,Bajo
+Base de datos,3,5,2,1,0,4,0,0,5,Bajo
+Servidor,1,3,3,2,4,5,0,0,2,Bajo
+Aplicación,3,4,4,2,2,5,0,1,1,Medio
+Red,3,3,5,3,0,4,1,1,1,Alto
+Base de datos,4,1,5,3,3,4,0,0,1,Medio
+Base de datos,5,2,1,5,1,5,0,1,1,Medio
+Equipo,4,1,1,4,0,5,0,0,4,Bajo
+Documento,5,4,4,3,3,3,0,1,1,Alto
+Red,2,4,1,1,1,4,0,1,5,Bajo
+Red,1,5,5,1,3,4,0,0,1,Bajo
+Red,2,5,5,4,0,5,0,1,1,Medio
+Red,2,4,3,2,0,2,1,0,3,Bajo
+Base de datos,4,4,4,5,0,3,0,0,5,Medio
+Servidor,2,3,4,1,0,5,1,0,5,Bajo
+Equipo,4,1,5,1,2,1,1,1,3,Medio
+Red,2,1,3,2,0,5,1,0,2,Bajo
+Base de datos,2,5,1,3,2,5,0,1,1,Medio
+Aplicación,4,2,1,1,1,3,0,1,3,Bajo
+Aplicación,3,3,2,3,3,3,0,1,2,Medio
+Documento,2,5,4,2,2,1,0,0,1,Alto
+Base de datos,1,1,4,5,3,4,0,0,5,Medio
+Base de datos,2,5,4,2,1,3,0,1,3,Medio
+Base de datos,2,4,4,2,1,1,1,0,2,Alto
+Aplicación,3,1,4,1,0,2,0,0,3,Bajo
+Aplicación,2,1,2,1,1,2,0,0,1,Bajo
+Documento,2,5,1,1,2,1,1,0,1,Medio
+Servidor,2,1,4,5,0,3,1,0,2,Medio
+Aplicación,4,2,4,1,3,1,1,0,4,Medio
+Red,2,5,4,5,1,4,0,1,5,Alto
+Aplicación,1,2,1,3,2,5,0,0,3,Bajo
+Documento,1,2,2,3,1,1,1,0,5,Medio
+Equipo,4,4,5,3,4,3,0,0,1,Alto
+Base de datos,2,5,4,3,1,5,0,0,3,Bajo
+Equipo,3,1,3,5,3,1,0,1,2,Alto
+Red,5,2,3,3,1,5,0,1,3,Bajo
+Aplicación,1,5,4,3,1,1,1,1,4,Alto
+Equipo,4,1,2,4,2,2,0,1,2,Alto
+Base de datos,2,1,3,2,0,4,0,0,2,Bajo
+Equipo,5,5,5,5,1,1,0,1,1,Alto
+Equipo,3,3,4,4,0,5,1,1,3,Medio
+Base de datos,3,2,4,5,5,5,0,0,3,Medio
+Base de datos,1,2,1,5,4,1,1,0,2,Alto
+Red,1,2,2,3,0,2,0,0,1,Bajo
+Aplicación,5,1,1,1,3,5,1,1,4,Bajo
+Documento,3,2,3,5,0,2,1,0,4,Alto
+Servidor,5,4,5,4,4,3,0,0,5,Alto
+Red,4,5,1,2,1,3,1,1,2,Medio
+Servidor,3,3,3,2,2,3,0,1,2,Medio
+Aplicación,5,3,4,1,4,2,0,0,3,Medio
+Red,2,4,4,4,0,2,0,1,1,Alto
+Documento,1,4,2,4,1,2,0,0,5,Bajo
+Aplicación,3,3,1,4,1,5,0,0,4,Bajo
+Documento,3,2,1,2,0,4,1,0,1,Bajo
+Aplicación,1,4,3,4,1,4,1,0,2,Medio
+Equipo,1,5,1,4,0,2,0,0,1,Medio
+Base de datos,1,3,3,3,0,3,1,0,2,Bajo
+Base de datos,1,2,1,3,1,4,0,0,5,Bajo
+Documento,1,5,4,3,1,2,0,1,1,Alto
+Servidor,5,5,2,2,1,5,0,1,5,Bajo
+Red,1,4,4,1,3,1,0,0,1,Medio
+Red,4,5,2,3,0,5,0,0,3,Bajo
+Red,5,3,3,3,1,1,0,0,4,Medio
+Equipo,5,1,4,4,2,1,0,1,2,Alto
+Aplicación,3,5,5,4,5,2,1,0,5,Alto
+Red,3,1,3,5,1,5,0,0,5,Bajo
+Aplicación,2,5,1,3,3,5,0,0,3,Bajo
+Red,5,3,1,4,3,3,1,1,2,Alto
+Aplicación,4,1,5,3,0,4,1,0,4,Medio
+Equipo,3,2,5,2,2,3,1,0,4,Bajo
+Servidor,3,2,5,5,1,1,0,1,4,Medio
+Documento,1,1,4,3,0,4,0,0,1,Bajo
+Base de datos,5,3,1,5,0,5,0,1,2,Medio
+Documento,1,5,1,1,2,5,0,0,1,Bajo
+Documento,3,5,3,2,2,1,0,1,5,Medio
+Aplicación,3,3,2,5,2,2,0,0,3,Medio
+Equipo,3,2,1,3,1,3,1,0,4,Bajo
+Red,5,3,4,1,2,3,0,0,1,Medio
+Servidor,4,1,2,1,1,2,1,0,2,Bajo
+Equipo,2,1,1,4,2,2,0,1,4,Medio
+Documento,1,3,2,4,1,1,0,1,4,Alto
+Servidor,5,5,2,3,2,4,0,0,5,Bajo
+Base de datos,2,3,5,1,0,5,1,0,4,Bajo
+Aplicación,3,2,1,1,2,5,0,0,5,Bajo
+Servidor,3,1,3,4,1,4,0,0,3,Bajo
+Documento,5,4,3,4,0,4,1,0,3,Alto
+Red,4,2,5,2,1,5,0,1,3,Bajo
+Aplicación,2,4,4,1,2,2,0,0,3,Bajo
+Equipo,5,3,5,4,0,2,0,1,1,Alto
+Servidor,1,1,3,4,2,1,0,0,5,Medio
+Equipo,2,5,2,3,1,4,0,0,2,Bajo
+Base de datos,2,4,4,2,2,4,0,0,2,Medio
+Servidor,5,1,5,5,1,2,0,1,1,Alto
+Aplicación,4,4,3,4,1,2,1,1,2,Alto
+Base de datos,3,3,3,2,2,5,1,1,4,Medio
+Base de datos,2,4,2,5,2,4,0,0,5,Bajo
